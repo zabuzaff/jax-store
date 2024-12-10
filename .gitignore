@@ -1,0 +1,16 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+/wp-content/cache/
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/backup-*
+
+# Ignore configuration and sensitive files
+wp-config.php
+
+# Ignore system files
+.DS_Store
+*.log
+*.sql
+*.env
