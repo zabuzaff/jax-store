@@ -2,7 +2,7 @@
 # /wp-admin/
 # /wp-includes/
 /wp-content/cache/
-/wp-content/uploads/
+# /wp-content/uploads/
 /wp-content/upgrade/
 /wp-content/backup-*
 
