@@ -1,5 +1,5 @@
 # Ignore WordPress core files
-/wp-admin/
+# /wp-admin/
 # /wp-includes/
 /wp-content/cache/
 /wp-content/uploads/
